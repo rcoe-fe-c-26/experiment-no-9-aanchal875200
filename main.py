@@ -1,7 +1,10 @@
-# Aim: Design a Python program to compute the factorial of a given integer N.
+# Aim: Design a Python program to compute 
+#      the factorial of a given integer N.
 # Coder: Aanchal
 # Date : 30/01/2026
 # Class : C(comps01)
+
+print("--- Factorial Finder ---\n")
 
 N = int(input("Enter Number : "))
 if N < 0 :
