@@ -5,7 +5,7 @@
 
 print("--- Factorial Finder ---\n")
 N = int(input("Enter Number : "))
-    
+ 
     if N < 0:
         print("Factorial of", N, "is Not Defined")
     else:
